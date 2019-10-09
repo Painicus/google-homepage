@@ -72,3 +72,7 @@ li {
 .right {
   float:right;
 }
+.Footer {
+  clear:both;
+  position:fixed;
+}
