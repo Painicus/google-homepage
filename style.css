@@ -1,6 +1,6 @@
 img {
   position:relative;
-  top: 200px;
+  top: 175px;
   left:5px;
   display:block;
   margin: auto;
@@ -13,7 +13,7 @@ img {
   width: 300px;
   margin:auto;
   position: relative;
-  top:220px;
+  top:195px;
 }
 .SubBTN {
   position: relative;
@@ -28,7 +28,7 @@ img {
 }
 p {
   position:relative;
-  top:220px;
+  top:195px;
   left: 10px;
   text-align:center;
   font-family: Helvetica, Arial, sans-serif;
@@ -38,9 +38,34 @@ p {
 p a {
   text-decoration: none;
 }
+#Sign {
+  background-color:#4584EF;
+  color:white;
+  font-family:Helvetica,Arial,sans-serif;
+  padding: 8px 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
 textarea {
 position: relative;
 right: 70px;
 line-height: 40px;
 border-radius: 45px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.right {
+  float:right;
 }
