@@ -65,6 +65,9 @@ li {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  color:#4F4F4F;
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:13px;
 }
 .right {
   float:right;
