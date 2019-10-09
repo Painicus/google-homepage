@@ -1,6 +1,21 @@
 img {
+  position:relative;
+  top: 200px;
   display:block;
   margin: auto;
   height:100px;
   width:300px;
+}
+
+.SearchForm {
+  display:block;
+  width: 300px;
+  margin:auto;
+  position: relative;
+  top:220px;
+}
+.SubBTN {
+  font-size: 14px;
+  padding: 5px;
+  margin-top: 15px;
 }
