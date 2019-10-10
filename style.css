@@ -47,6 +47,8 @@ p a {
   font-weight: bold;
   border-radius: 5px;
   -webkit-appearance: none;
+  position: relative;
+  bottom: 10px;
 }
 textarea {
 position: relative;
